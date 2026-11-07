@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "appName": "VYORA",
+  "tagline": "Turn big goals into small steps",
+  "navHome": "Home",
+  "navGoals": "Goals",
+  "navTasks": "Tasks",
+  "navChallenges": "Challenges",
+  "navProgress": "Progress",
+  "comingSoon": "This screen is built in a later phase"
+}

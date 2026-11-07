@@ -1,0 +1,11 @@
+{
+  "@@locale": "ar",
+  "appName": "VYORA",
+  "tagline": "حوّل أهدافك الكبيرة إلى خطوات صغيرة",
+  "navHome": "الرئيسية",
+  "navGoals": "الأهداف",
+  "navTasks": "المهام",
+  "navChallenges": "التحديات",
+  "navProgress": "التقدّم",
+  "comingSoon": "ستُبنى هذه الشاشة في مرحلة لاحقة"
+}
